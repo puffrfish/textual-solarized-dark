@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Nickname Format</key>
-	<string>%@%n:</string>
+	<string>%n:</string>
 	<key>Timestamp Format</key>
 	<string></string>
 	<key>Override Channel Font</key>
@@ -20,6 +20,6 @@
 	<key>Force Invert Sidebars</key>
 	<true/>
 	<key>Template Engine Version</key>
-	<integer>2</integer>
+	<integer>3</integer>
 </dict>
 </plist>
